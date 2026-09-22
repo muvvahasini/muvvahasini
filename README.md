@@ -43,6 +43,12 @@ Currently exploring AI Agents, MCP, and production-ready AI systems.
 ⚙️ LLMOps & AI Deployment<br><br>
 🚀 Production AI Applications
 
+## 📊 GitHub Activity
+
+I use GitHub to build, experiment, document my projects, and continuously improve my skills in **AI and software engineering**.
+
+Check out my repositories to explore my projects and experiments.
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=hasinimuvva&icon=0&color=0)](https://visitcount.itsvg.in)
